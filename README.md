@@ -53,10 +53,7 @@ Task manager demonstrating CRUD with MySQLi.
 </td>
 <td width="50%">
 
-### 🌐 [Portfolio](https://github.com/aminearea/portfolio-)
-Personal portfolio website.
-
-`HTML` `CSS` `JavaScript`
+<!-- empty cell for layout balance -->
 
 </td>
 </tr>
