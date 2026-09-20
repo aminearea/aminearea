@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Building+safer+browsing;Full-Stack+%26+Systems+Programming;C%2B%2B+%C2%B7+JavaScript+%C2%B7+PHP+%C2%B7+MySQL" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Building+safer+browsing;Cybersecurity+Student;JavaScript+%C2%B7+PHP+%C2%B7+MySQL" alt="Typing SVG" />
 
 <br/>
 
-**C++ · JavaScript · PHP · MySQL · HTML · CSS**
+**Cybersecurity student · JavaScript · PHP · MySQL**
 
 [![GitHub followers](https://img.shields.io/github/followers/aminearea?style=social)](https://github.com/aminearea)
 [![Profile views](https://komarev.com/ghpvc/?username=aminearea&style=flat-square&color=fbbf24)](https://github.com/aminearea)
@@ -16,7 +16,7 @@
 ## About me
 
 - 🔐 Focused on **web security** and **phishing detection**
-- 🛠️ Building tools with **JavaScript**, **PHP**, **MySQL**, and **C++**
+- 🛠️ Building tools with **JavaScript**, **PHP**, and **MySQL**
 - 📚 Currently learning **penetration testing** and **threat intelligence**
 
 ---
