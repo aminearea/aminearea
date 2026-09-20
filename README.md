@@ -42,24 +42,6 @@ Local password manager written in C++ with encrypted storage.
 
 </td>
 </tr>
-<tr>
-<td width="50%">
-
-### 📋 [PHP MySQLi Todo List](https://github.com/aminearea/php-mysqli-todo-list)
-Task manager demonstrating CRUD operations with MySQLi.
-
-`PHP` `MySQL`
-
-</td>
-<td width="50%">
-
-### 🎓 [GitHub Profile](https://github.com/aminearea)
-This profile — projects, skills, and background.
-
-`Markdown` `Profile`
-
-</td>
-</tr>
 </table>
 
 ---
