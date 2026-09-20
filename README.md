@@ -63,16 +63,6 @@ Local password manager written in C++ with encrypted storage.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aminearea&theme=radical&hide_border=true&background=0d1117&stroke=fbbf24&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24" alt="GitHub Streak" />
-
-</div>
-
----
-
 <div align="center">
 
 **Feel free to explore my repositories.**
