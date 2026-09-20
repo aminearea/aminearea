@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Amine;Cybersecurity+Student;Building+safer+browsing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=Building+safer+browsing;Cybersecurity+Student;JavaScript+%C2%B7+PHP+%C2%B7+MySQL" alt="Typing SVG" />
 
 <br/>
 
@@ -36,7 +36,7 @@ Real-time phishing detection — Chrome extension + PHP REST API + admin dashboa
 <td width="50%">
 
 ### 🔒 [VAULT - C++ Password Manager](https://github.com/aminearea/VAULT---C-Password-Manager)
-Local password manager written in C++.
+Local password manager written in C++ with encrypted storage.
 
 `C++` `Security`
 
@@ -45,8 +45,23 @@ Local password manager written in C++.
 <tr>
 <td width="50%">
 
+### 📋 [PHP MySQLi Todo List](https://github.com/aminearea/php-mysqli-todo-list)
+Task manager demonstrating CRUD operations with MySQLi.
 
+`PHP` `MySQL`
+
+</td>
+<td width="50%">
+
+### 🎓 [GitHub Profile](https://github.com/aminearea)
+This profile — projects, skills, and background.
+
+`Markdown` `Profile`
+
+</td>
+</tr>
 </table>
+
 ---
 
 ## Tech Stack
@@ -70,7 +85,7 @@ Local password manager written in C++.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminearea&theme=radical&hide_border=true&background=0d1117&stroke=fbbf24&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24" alt="GitHub Streak" />
+<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=aminearea&theme=radical&hide_border=true&background=0d1117&stroke=fbbf24&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24" alt="GitHub Streak" />
 
 </div>
 
@@ -78,6 +93,6 @@ Local password manager written in C++.
 
 <div align="center">
 
-**Feel free to explore my repositories. Star ⭐ if you find something useful.**
+**Feel free to explore my repositories.**
 
 </div>
