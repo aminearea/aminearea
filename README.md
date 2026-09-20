@@ -85,8 +85,7 @@ Personal portfolio website.
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=aminearea&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=fbbf24&icon_color=fbbf24&text_color=fafafa" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aminearea&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=fbbf24&text_color=fafafa" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=aminearea&theme=radical&hide_border=true&background=0d1117&stroke=fbbf24&ring=fbbf24&fire=fbbf24&currStreakLabel=fbbf24" alt="GitHub Streak" />
 
 </div>
 
