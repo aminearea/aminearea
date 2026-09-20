@@ -45,18 +45,7 @@ Local password manager written in C++.
 <tr>
 <td width="50%">
 
-### 📋 [PHP MySQLi Todo List](https://github.com/aminearea/php-mysqli-todo-list)
-Task manager demonstrating CRUD with MySQLi.
 
-`PHP` `MySQL`
-
-</td>
-<td width="50%">
-
-<!-- empty cell for layout balance -->
-
-</td>
-</tr>
 </table>
 
 ---
