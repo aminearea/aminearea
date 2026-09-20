@@ -47,7 +47,6 @@ Local password manager written in C++.
 
 
 </table>
-
 ---
 
 ## Tech Stack
