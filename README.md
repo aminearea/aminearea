@@ -4,7 +4,6 @@
 
 <br/>
 
-**Cybersecurity student **
 
 [![GitHub followers](https://img.shields.io/github/followers/aminearea?style=social)](https://github.com/aminearea)
 [![Profile views](https://komarev.com/ghpvc/?username=aminearea&style=flat-square&color=fbbf24)](https://github.com/aminearea)
